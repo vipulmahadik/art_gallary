@@ -1,0 +1,38 @@
+.btn-padd {
+    padding: 3px 4px;
+    font-size: 12px;
+}
+
+a.title-work-artist{
+    display: block;
+    text-align: -webkit-center;
+    height: 40px;
+    margin-top: 4px;
+}
+
+.invisi{
+	display: none;
+}
+
+.highlight {
+	background-color: yellow;
+}
+.art-img {
+	display: block;
+	margin: 0 auto;
+}
+.header-name{
+	display:inline;color:white;
+}
+.search_row_pad{
+	padding: 10px;margin:5px;
+}
+.marginb10{
+	margin-bottom: 10px;
+}
+.margint20{
+	margin-top : 20px;
+}
+.fullw{
+	width : 100%;
+}
